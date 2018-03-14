@@ -1,2 +1,4 @@
 # hello-word
-I hereby come to bring my first repository
+
+
+hello, I am Brayan a young and beginner programmer, but with the effort and dedication I will become a great progamodor not only in the area of ​​information, analyze and even in games
